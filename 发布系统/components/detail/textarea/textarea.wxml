@@ -1,0 +1,4 @@
+<view class="dl y-bgw">
+  <view class="dt">{{name}}</view>
+  <view class="dd">{{value}}</view>
+</view>

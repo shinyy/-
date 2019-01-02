@@ -1,0 +1,4 @@
+<view class="li y-grid y-alignc">
+      <view>{{name}}：</view>
+      <view class="y-flex1">{{value}}</view>
+    </view>

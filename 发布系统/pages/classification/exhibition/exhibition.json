@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "展会",
+  "usingComponents": {
+    "tabBar": "/components/tabbar/tabbar",
+    "City":"/components/city/city"
+   },
+  "enablePullDownRefresh": false
+   
+}
